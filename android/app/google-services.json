@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258513763213",
+    "firebase_url": "https://digimed-a2bcf.firebaseio.com",
+    "project_id": "digimed-a2bcf",
+    "storage_bucket": "digimed-a2bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258513763213:android:264aa128ef46fc35acdbc4",
+        "android_client_info": {
+          "package_name": "com.thescienceandtechnology.digimed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258513763213-4cukgjurqn77um0nbnop9ivdo7bd6uki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlXVHMKgg62ScG5gQcyhanLLYm2bWa76A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258513763213-4cukgjurqn77um0nbnop9ivdo7bd6uki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

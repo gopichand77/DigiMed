@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258513763213-aeu7ndb9878ai1je39tepscg3ej369ef.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258513763213-aeu7ndb9878ai1je39tepscg3ej369ef</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_X6VRb25TpuuW8tnh_v6Cl7Cf-VPM5Uk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258513763213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thescienceandtechnology.digimed</string>
+	<key>PROJECT_ID</key>
+	<string>digimed-a2bcf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digimed-a2bcf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258513763213:ios:85ac1e1e93e10dceacdbc4</string>
+	<key>DATABASE_URL</key>
+	<string>https://digimed-a2bcf.firebaseio.com</string>
+</dict>
+</plist>
